@@ -10,6 +10,8 @@
   
 ## 🔥 Projects 
 
+</div>
+
 [🖐️ Gesture Recognition 🖐️](https://github.com/SuwonPabby/AppleFarm) <br />
 [🤬 Bad Words Filtering in Media 🤬](https://github.com/SuwonPabby/Yok_Filtering) <br />
 [⚙️ Spindle Motor Failure Prediction ⚙️](https://github.com/JJukE/Analysis_of_Spindle_Motor_Failure) <br />
@@ -17,12 +19,17 @@
 [🏠 Hous- iOS Project 🏠](https://github.com/TeamHous/Hous-iOS) <br />
 
 
-
+<div align="center">
+  
 ## 🐻‍❄️ Algorithm Study 
+
+</div>
+
 [🐢 SquirtlesAlgoritmStudy 🐢](https://github.com/SquirtlesAlgorithmStudy)
 
 
-
+<div align="center">
+  
 ## 🌭 AI Stack 
 <div>
   
