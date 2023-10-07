@@ -16,12 +16,12 @@
 [⭐️ Polar-Star (Job Description & Lecture Recommendation) ⭐️](https://github.com/KDT-AiVENGERS/PolarStar_Info) <br />
 [🏠 Hous- iOS Project 🏠](https://github.com/TeamHous/Hous-iOS) <br />
 
-<br />
+
 
 ## 🐻‍❄️ Algorithm Study 
 [🐢 SquirtlesAlgoritmStudy 🐢](https://github.com/SquirtlesAlgorithmStudy)
 
-<br />
+
 
 ## 🌭 AI Stack 
 <div style="display:flex; flex-direction: column>
@@ -37,8 +37,6 @@
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white">
 </div>
 
-<br />
-
 
 ## 🥤 Other Stack 
 <div style="display:flex; flex-direction: column>
@@ -51,9 +49,6 @@
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/rxswift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
 </div>
-
-
-<br />
 
 ## ✨ Available Tools 
 
@@ -69,8 +64,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-<br />
-<br />
+
 
 <p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=footer&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000"></p>
 
