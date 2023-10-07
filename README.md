@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&text=⭐️%20Welcome%20to%20SuwonPabby's%20Github%20⭐️&color=gradient&customColorList=1&height=110&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "600">
 </div>
 
-
+<div align="center">
   
 ## 🔥 Projects 
 
@@ -65,6 +65,8 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
 </div>
 
 
