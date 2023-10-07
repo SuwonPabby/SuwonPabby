@@ -22,7 +22,7 @@
 
 
 
-## 🐻‍❄️ Algorithm Studies in Operation 🐻‍❄️
+## 🐻‍❄️ Algorithm Study in Operation 🐻‍❄️
 
 
 
