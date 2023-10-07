@@ -5,19 +5,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&text=⭐️%20Welcome%20to%20SuwonPabby's%20Github%20⭐️&color=gradient&customColorList=1&height=110&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "700">
 </div>
-
-## 🔥 Projects 🔥
+<br />
+<br />
+  
+# 🔥 Projects 
 
 [🖐️ Gesture Recognition 🖐️](https://github.com/SuwonPabby/AppleFarm) <br />
 [🤬 Bad Words Filtering in Media 🤬](https://github.com/SuwonPabby/Yok_Filtering) <br />
 [⚙️ Spindle Motor Failure Prediction ⚙️](https://github.com/JJukE/Analysis_of_Spindle_Motor_Failure) <br />
 [⭐️ Polar-Star (Job Description & Lecture Recommendation) ⭐️](https://github.com/KDT-AiVENGERS/PolarStar_Info) <br />
 [🏠 Hous- iOS Project 🏠](https://github.com/TeamHous/Hous-iOS) <br />
+<br />
+<br />
 
-## 🐻‍❄️ Algorithm Study 🐻‍❄️
+# 🐻‍❄️ Algorithm Study 
 [🐢 SquirtlesAlgoritmStudy 🐢](https://github.com/SquirtlesAlgorithmStudy)
+<br />
+<br />
 
-## 🌭 AI Stack 🌭
+# 🌭 AI Stack 
 <div style="display:flex; flex-direction: column>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -31,7 +37,9 @@
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white">
 </div>
 
-## 🥤 Other Stack 🥤
+# 🥤 Other Stack 
+<br />
+<br />
 
 <div style="display:flex; flex-direction: column>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -47,7 +55,7 @@
 <br />
 <br />
 
-## ✨ Available Tools ✨
+#✨ Available Tools 
 
 <div style="display:flex; flex-direction: column>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
