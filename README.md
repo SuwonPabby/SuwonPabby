@@ -26,7 +26,7 @@
 
 
 
-[🐢 SquirtlesAlgoritmStudy 🐢](https://github.com/SquirtlesAlgorithmStudy)
+[🐢 SquirtlesAlgorithmStudy 🐢](https://github.com/SquirtlesAlgorithmStudy)
 
 
 
