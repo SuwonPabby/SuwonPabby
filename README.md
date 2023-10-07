@@ -25,7 +25,7 @@
 
 </div>
 
-[🐢 SquirtlesAlgoritmStudy 🐢](https://github.com/SquirtlesAlgorithmStudy)
+[🐢 SquirtlesAlgoritmStudy](https://github.com/SquirtlesAlgorithmStudy)
 
 
 <div align="center">
