@@ -8,7 +8,7 @@
 
 <div align="center">
   
-## 🔥 Projects 
+## 🔥 Projects 🔥
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
   
-## 🐻‍❄️ Algorithm Study 
+## 🐻‍❄️ Algorithm Study 🐻‍❄️
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-## 🌭 AI Stack 
+## 🌭 AI Stack 🌭
 <div>
   
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -46,7 +46,7 @@
 </div>
 
 
-## 🥤 Other Stack 
+## 🥤 Other Stack 🥤
 <div>
   
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/rxswift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
 </div>
 
-## ✨ Available Tools 
+## ✨ Available Tools ✨
 
 <div>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
