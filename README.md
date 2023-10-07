@@ -24,7 +24,8 @@
 
 
 ## 🌭 AI Stack 
-<div style="display:flex; flex-direction: column>
+<div>
+  
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/pytorchlightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white">
@@ -39,7 +40,8 @@
 
 
 ## 🥤 Other Stack 
-<div style="display:flex; flex-direction: column>
+<div>
+  
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
@@ -52,7 +54,7 @@
 
 ## ✨ Available Tools 
 
-<div style="display:flex; flex-direction: column>
+<div>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
 <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
