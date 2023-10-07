@@ -36,11 +36,11 @@
 <img src="https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white">
 </div>
+<br />
+<br />
+
 
 # 🥤 Other Stack 
-<br />
-<br />
-
 <div style="display:flex; flex-direction: column>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
@@ -55,7 +55,7 @@
 <br />
 <br />
 
-#✨ Available Tools 
+# ✨ Available Tools 
 
 <div style="display:flex; flex-direction: column>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
