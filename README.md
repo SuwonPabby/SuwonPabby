@@ -1,12 +1,12 @@
 <div align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=header&animation=twinkling&fontsize=60&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "2000">
 
-<img src="https://github.com/SuwonPabby/SuwonPabby/assets/60493070/8cda95b8-bd76-4808-ad3e-b4ef106c3d88" width="90%">
+<img src="https://github.com/SuwonPabby/SuwonPabby/assets/60493070/8cda95b8-bd76-4808-ad3e-b4ef106c3d88" width="80%">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&text=⭐️%20Welcome%20to%20SuwonPabby's%20Github%20⭐️&color=gradient&customColorList=1&height=110&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "700">
+<img src="https://capsule-render.vercel.app/api?type=rounded&text=⭐️%20Welcome%20to%20SuwonPabby's%20Github%20⭐️&color=gradient&customColorList=1&height=110&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=50&fontColor=FFFFFF&fontAlign=30&fontAlignY=30" width= "600">
 </div>
 
-<br />
+
   
 ## 🔥 Projects 
 
