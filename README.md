@@ -23,7 +23,7 @@
 
 
 ## 🐻‍❄️ Algorithm Study in Operation 🐻‍❄️
- [<img src="https://drive.google.com/uc?id=1xX3zjRypobI8nzifMAYs55QNWjLn3SZI" width="500" />](https://github.com/SquirtlesAlgorithmStudy)
+ [<img src="https://drive.google.com/uc?id=17EYNnY6A7k4XowBXCNdOycF9TQXFXHzF" width="500" />](https://github.com/SquirtlesAlgorithmStudy)
 
   
 ## 🌭 AI Stack 🌭
