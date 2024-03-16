@@ -18,6 +18,7 @@
 |[⚙️ Spindle Motor Failure Prediction ⚙️](https://github.com/JJukE/Analysis_of_Spindle_Motor_Failure)|Find fault patterns in large scale spindle motor data|
 |[⭐️ Polar-Star Recommendation Service ⭐️](https://github.com/KDT-AiVENGERS/PolarStar_Info)|Recommend job descriptions and lectures suitable for users|
 |[🏠 Hous- iOS Project 🏠](https://github.com/TeamHous/Hous-iOS)|Make a service for a happy stay-at-home with a roommate|
+|[🖼️ Hansol LLM Finetuning 🖼️](https://github.com/hansolqa-programmers/hansolqa-deco-qa)|Finetune LLM to make wallpaper domain specific LLM|
 
 
 
