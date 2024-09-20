@@ -16,7 +16,7 @@
 |[🖐️ Gesture Recognition 🖐️](https://github.com/SuwonPabby/AppleFarm)|Classify hand gestures within the cam in real time as one of 10 actions|
 |[🤬 Swear Words Filtering in Media 🤬](https://github.com/SuwonPabby/Yok_Filtering)|Find the swear words in the video and put on the Beep Sound|
 |[⚙️ Spindle Motor Failure Prediction ⚙️](https://github.com/JJukE/Analysis_of_Spindle_Motor_Failure)|Find fault patterns in large scale spindle motor data|
-|[⭐️ Polar-Star Recommendation Service ⭐️](https://github.com/KDT-AiVENGERS/PolarStar_Info)|Recommend job descriptions and lectures suitable for users|
+|[⭐️ PolarStar Recommendation Service ⭐️](https://github.com/KDT-AiVENGERS/PolarStar_Info)|Recommend job descriptions and lectures suitable for users|
 |[🏠 Hous- iOS Project 🏠](https://github.com/TeamHous/Hous-iOS)|Make a service for a happy stay-at-home with a roommate|
 |[🖼️ Hansol LLM Finetuning 🖼️](https://github.com/hansolqa-programmers/hansolqa-deco-qa)|Finetune LLM to make wallpaper domain specific LLM|
 |[🛸 Kaggle - Drone Delivery 🛸](https://www.kaggle.com/code/aipabby/kaggle-drone)|Optimize the route of the delivery drone|
