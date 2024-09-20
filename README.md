@@ -19,6 +19,8 @@
 |[⭐️ Polar-Star Recommendation Service ⭐️](https://github.com/KDT-AiVENGERS/PolarStar_Info)|Recommend job descriptions and lectures suitable for users|
 |[🏠 Hous- iOS Project 🏠](https://github.com/TeamHous/Hous-iOS)|Make a service for a happy stay-at-home with a roommate|
 |[🖼️ Hansol LLM Finetuning 🖼️](https://github.com/hansolqa-programmers/hansolqa-deco-qa)|Finetune LLM to make wallpaper domain specific LLM|
+|[🛸 Kaggle - Drone Delivery 🛸](https://www.kaggle.com/code/aipabby/kaggle-drone)|Optimize the route of the delivery drone|
+|[🤖 NadeulAI - AI server serving 🤖](https://github.com/HisTour/HisTour-AI)|Implement AI server serving for a chatbot assisting in completing travel destination missions|
 
 
 
